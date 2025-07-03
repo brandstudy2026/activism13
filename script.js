@@ -1,7 +1,7 @@
 // script.js
 
 // 1. URL della survey (sostituisci con il tuo)
-const surveyUrl = 'YOUR_SURVEY_URL';
+const surveyUrl = 'https://www.youtube.com/watch?v=O49tprYtyf0&list=PLpUNZTS0qYuCnbu0E9mJG8iwb7iJbPOzU&index=41';
 
 // 2. (Opzionale) endpoint per raccogliere i dati di click e permanenza
 const TRACKING_ENDPOINT = 'YOUR_TRACKING_ENDPOINT';
